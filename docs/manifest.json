@@ -3,6 +3,13 @@
   "version": 1,
   "pages": [
     {
+      "id": 45,
+      "slug": "compliance-pharma-br",
+      "name": "COMPLIANCE PHARMA BR",
+      "documentCount": 29,
+      "publishedAt": "2026-10-01T19:21:00.608Z"
+    },
+    {
       "id": 3,
       "slug": "netural",
       "name": "NETURAL",
@@ -15,6 +22,20 @@
       "name": "RENDERWEAR",
       "documentCount": 45,
       "publishedAt": "2026-10-01T06:50:45.556Z"
+    },
+    {
+      "id": 44,
+      "slug": "timesafe",
+      "name": "TIMESAFE",
+      "documentCount": 25,
+      "publishedAt": "2026-10-01T19:21:00.608Z"
+    },
+    {
+      "id": 10,
+      "slug": "vertente",
+      "name": "VERTENTE",
+      "documentCount": 56,
+      "publishedAt": "2026-10-01T19:21:00.608Z"
     }
   ]
 }
