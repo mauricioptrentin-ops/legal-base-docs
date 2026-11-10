@@ -10,6 +10,13 @@
       "publishedAt": "2026-10-05T20:51:29.857Z"
     },
     {
+      "id": 47,
+      "slug": "eficaz",
+      "name": "EFICAZ",
+      "documentCount": 27,
+      "publishedAt": "2026-11-10T04:43:07.137Z"
+    },
+    {
       "id": 3,
       "slug": "netural",
       "name": "NETURAL",
@@ -37,5 +44,8 @@
       "documentCount": 60,
       "publishedAt": "2026-10-05T21:01:14.061Z"
     }
+  ],
+  "completedOperations": [
+    "9150593dd6ac211cbc83f0446e387b15f7ce22e94365b1f8d0843db6e3ce4e7c"
   ]
 }
